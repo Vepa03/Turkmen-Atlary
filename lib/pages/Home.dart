@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:learn/pages/Profile.dart';
+import 'package:flutter/services.dart';
+import 'package:learn/pages/AboutUs.dart';
+import 'package:lottie/lottie.dart';
 
 class Home extends StatefulWidget {
   const Home({super.key});
@@ -14,7 +16,8 @@ class _HomeState extends State<Home> {
   static const List<Widget> option = <Widget>[
     Text("data 1"),
     Text("data 2"),
-    Text("data 3")
+    Text("data 3"),
+    Text("data 4"),
   ];
 
   void _onitemTapped(int index){
@@ -24,44 +27,60 @@ class _HomeState extends State<Home> {
   }
   @override
   Widget build(BuildContext context) {
+    var height = MediaQuery.of(context).size.height;
+    var width = MediaQuery.of(context).size.width;
+
     return Scaffold(
       appBar: AppBar(
-        title: Center(child: Text("Program")),
+        title: Center(child: Text("Turkmen Adam Atlary")),
         elevation: 2,
-        actions: [
-          GestureDetector(
-            onTap: (){
-              Navigator.push(context, MaterialPageRoute(builder: (context)=>Profile()));
-            },
-            child: Padding(
-              padding: const EdgeInsets.all(10.0),
-              child: Image.asset("lib/assets/images/admin.png"),
-            ),
-          )
-        ],
+
       ),
 
       drawer: Drawer(
         child: Column(
+          crossAxisAlignment: CrossAxisAlignment.center,
+          mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Image.asset("lib/assets/images/admin.png"),
-            Column(
-              children: [
-                ListTile(
-                  leading: Icon(Icons.abc, color: Colors.black,),
-                  title: Text("Birinji"),
-                  onTap: (){
-
-                  },
-                ),
-                ListTile(
-                  leading: Icon(Icons.abc_rounded, color: Colors.black,),
-                  title: Text("Ikinji"),
-                  onTap: (){
-                    
-                  },
-                )
-              ],
+            SizedBox(
+              width: width*0.5,
+              height: height*0.3,
+              child: Lottie.asset("lib/assets/images/drawer_animation.json")),
+            Padding(
+              padding: const EdgeInsets.only(left: 10.0, right: 10.0),
+              child: Column(
+                children: [
+                  ListTile(
+                    leading: Icon(Icons.share, color: Colors.black,),
+                    title: Text("Share"),
+                    onTap: (){
+              
+                    },
+                  ),
+                  ListTile(
+                    leading: Icon(Icons.info_outline, color: Colors.black,),
+                    title: Text("Biz Hakynda"),
+                    onTap: (){
+                      Navigator.push(context, MaterialPageRoute(builder: (context)=> Aboutus()));
+                    },
+                  ),
+                  ListTile(
+                    leading: Icon(Icons.dark_mode_outlined, color: Colors.black,),
+                    title: Text("Gundiz"),
+                    onTap: (){
+                      
+                    },
+                  ),
+                  Divider(color: Colors.black,),
+                  ListTile(
+                    leading: Icon(Icons.exit_to_app, color: Colors.black,),
+                    title: Text("Cykalga"),
+                    onTap: (){
+                      SystemNavigator.pop();
+                    },
+                  ),
+                ],
+              ),
             )
           ],
         ),
@@ -71,9 +90,10 @@ class _HomeState extends State<Home> {
       bottomNavigationBar: BottomNavigationBar(
         elevation: 2,
         items: <BottomNavigationBarItem>[
-          BottomNavigationBarItem(icon: Icon(Icons.abc, color: const Color.fromARGB(255, 195, 57, 57),), label: ""),
-          BottomNavigationBarItem(icon: Icon(Icons.abc,color: const Color.fromARGB(255, 147, 40, 40),), label: ""),
-          BottomNavigationBarItem(icon: Icon(Icons.abc, color: const Color.fromARGB(255, 130, 40, 40),), label: ""),
+          BottomNavigationBarItem(icon: Icon(Icons.home_filled, color: const Color.fromARGB(255, 0, 0, 0),), label: ""),
+          BottomNavigationBarItem(icon: Icon(Icons.male,color: const Color.fromARGB(255, 0, 0, 0),), label: ""),
+          BottomNavigationBarItem(icon: Icon(Icons.female, color: const Color.fromARGB(255, 0, 0, 0),), label: ""),
+          BottomNavigationBarItem(icon: Icon(Icons.favorite_border_outlined, color: const Color.fromARGB(255, 0, 0, 0),), label: ""),
         ],
         currentIndex: saylanan_index,
         selectedItemColor: const Color.fromARGB(255, 0, 0, 0),

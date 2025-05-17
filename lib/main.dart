@@ -45,6 +45,7 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     var width = MediaQuery.of(context).size.width;
+    var height = MediaQuery.of(context).size.height;
     return Scaffold(
       backgroundColor: const Color.fromARGB(255, 246, 244, 244),
       body: Center(
@@ -55,9 +56,11 @@ class _MyHomePageState extends State<MyHomePage> {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Container(
-                child: Lottie.asset("lib/assets/images/entry_animation.json")
+                width: width*0.5,
+                height: height*0.4,
+                child: Image.asset("lib/assets/images/about_us.png")
               ),
-              Text("Kitaplar", style: TextStyle(fontSize: width*0.15, color: Colors.black, fontWeight: FontWeight.bold),)
+              Text("Türkmen Adam Atlary", style: TextStyle(fontSize: width*0.1,color: Colors.black, fontWeight: FontWeight.bold,), textAlign: TextAlign.center,)
             ],
           ),
         )
