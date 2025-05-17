@@ -1,7 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:learn/pages/AboutUs.dart';
+import 'package:learn/pages/Female.dart';
+import 'package:learn/pages/Male.dart';
+import 'package:learn/pages/Menu.dart';
 import 'package:lottie/lottie.dart';
+import 'package:share_plus/share_plus.dart';
+
 
 class Home extends StatefulWidget {
   const Home({super.key});
@@ -14,9 +19,9 @@ class _HomeState extends State<Home> {
 
   int saylanan_index = 0;
   static const List<Widget> option = <Widget>[
-    Text("data 1"),
-    Text("data 2"),
-    Text("data 3"),
+    Menu(),
+    Male(),
+    Female(),
     Text("data 4"),
   ];
 
@@ -54,7 +59,9 @@ class _HomeState extends State<Home> {
                     leading: Icon(Icons.share, color: Colors.black,),
                     title: Text("Share"),
                     onTap: (){
-              
+                      SharePlus.instance.share(
+                      ShareParams(uri: Uri.parse("https://babayev.vercel.app/?fbclid=PAZXh0bgNhZW0CMTEAAaf91ZS4QuX1NuzO1LNAZBAZe2u3utUZa0PpwS_uWKeKTljvFkN2jTd5DYfAww_aem_1GklYLWmJx06H6GYsUgCRQ")),
+                    );
                     },
                   ),
                   ListTile(
