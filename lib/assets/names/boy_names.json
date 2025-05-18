@@ -38,5 +38,499 @@
     {
         "name": "Annaberdi",
         "meaning": "Anna (Baýram, Anna güni) + Berdi (Alla tarapyndan berilen, sowgat edilen) atlaryndan meýdana gelen at bolup manysy - 'Alla tarapyndan anna güni berilen, sowgat edilen çaga'. "
+    },
+    {
+        "name": "Didar",
+        "meaning": " Manysy ,,Öýe ýüzi düşen çaga’’ diýmek"
+    },
+    {
+        "name": "Dinmuhammet",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Muhammet pygamberiň dinini eýeriji’’ diýmek"
+    },
+    {
+        "name": "Diýar",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Watan’’ diýmek."
+    },
+    {
+        "name": "Döwlet",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Döwletli bolsun’’ diýmek."
+    },
+    {
+        "name": "Durdy",
+        "meaning": "bu at oglanlara dakylýan at. Manysy,,Uzak ýaşasyn’’diýmek"
+    },
+    {
+        "name": "Daniýar",
+        "meaning": "  Manysy ,,Akylly, bilimli, dana dost’’ diýmek."
+    },
+    {
+        "name": "Daňatar",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Daňdan doglan çaga’’ diýmek."
+    },
+    {
+        "name": "Daýanç",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Maşgalasynyň daýanjy’’ diýmek."
+    },
+    {
+        "name": "Deňiz",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Deňiz ýaly giň’’ diýmek."
+    },
+    {
+        "name": "Derýa",
+        "meaning": "bu at oglanlara  dakylýan at. Manysy,,Derýa ýaly giň’’diýmek. "
+    },
+    {
+        "name": "Bezirgen",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Söwdagär’’ diýmek."
+    },
+    {
+        "name": "Bähbit",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Ene – atasyna bähbitli kömek etsin’’ diýmek."
+    },
+    {
+        "name": "Bäşim",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Maşgalada doglan bäşinji ogul’’ diýmek."
+    },
+    {
+        "name": "Çary",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Maşgalada doglan dördünji ogul’’ diýmek."
+    },
+    {
+        "name": "Dawut",
+        "meaning": "bu at oglanlara dakylýan at. Manysy,,Ýakyn söýgüli dost’’diýmek."
+    },
+    {
+        "name": "Baky",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Ömürlik we hemişe ýaşasyn’’ diýmek."
+    },
+    {
+        "name": "Batyr",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Batyr ýürekli bolsun’’ diýmek."
+    },
+    {
+        "name": "Begenç",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Maşgalasyny begendiren’’ diýmek."
+    },
+    {
+        "name": "Begler",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Begleriň begi’’ diýmek."
+    },
+    {
+        "name": "Begmyrat",
+        "meaning": " bu at oglanlara  dakylýan at. Manysy,,Beg ýaly ogul arzuwyna ýetsin’’diýmek."
+    },
+    {
+        "name": "Baýramgylyç",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Baýramçylykda doglan ogul uzak ýaşasyn, ölmesin’’ diýmek."
+    },
+    {
+        "name": "Baýramdurdy",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Baýramçylykda doglan çaga dursun, ölmesin, uzak ýaşasyn’’ diýmek."
+    },
+    {
+        "name": "Baýrammuhammet",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Baýramçylykda doglan öwgüli ogul’’ diýmek."
+    },
+    {
+        "name": "Baýrammyrat",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Baýramçylykda doglan ogul maksat-myradyna ýetsin’’ diýmek."
+    },
+    {
+        "name": "Baýramnazar",
+        "meaning": "bu at oglanlara dakylýan at. Manysy,,Baýramçylykda nazar eden ogul’’diýmek."
+    },
+    {
+        "name": "Baýramgeldi",
+        "meaning": "bu at oglanlara dakylýan at. Manysy “Baýramçylykda gelen oglan’’ diýmek."
+    },
+    {
+        "name": "Baýramguly",
+        "meaning": "bu at oglanlara dakylýan at. Manysy “Baýramçylykda doglan ogul’’ diýmek."
+    },
+    {
+        "name": "Baýramgurban",
+        "meaning": "bu at oglanlara dakylýan at. Manysy “Gurban baýramçylygynda doglan çaga’’ diýmek."
+    },
+    {
+        "name": "Baýnyýaz",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Dilenip alnan döwletli çaga’’ diýmek."
+    },
+    {
+        "name": "Baýpolat",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Döwletli we jany hem polat ýaly berk bolsun’’ diýmek."
+    },
+    {
+        "name": "Baýram",
+        "meaning": " bu at oglanlara dakylýan at. Manysy ,,Baýramçylykda doglan çaga’’ diýmek."
+    },
+    {
+        "name": "Baýrambaý",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Baýramçylykda doglan döwletli ogul’’ diýmek."
+    },
+    {
+        "name": "Baýramberdi",
+        "meaning": "bu at oglanlara dakylýan at. Manysy,,Baýramçylykda doglan belent derejeli gyz’’diýmek."
+    },
+    {
+        "name": "Baýly",
+        "meaning": "Manysy ,,Baýlykly, döwletli ogul’’ diýmek."
+    },
+    {
+        "name": "Baýmuhammet",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Döwletli we öwgüli ogul’’ diýmek."
+    },
+    {
+        "name": "Baýmyrat",
+        "meaning": " bu at oglanlara dakylýan at. Manysy ,,Döwletli ogul myrat-maksadyna ýetsin’’ diýmek."
+    },
+    {
+        "name": "Baýnazar",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Öňümize baý, döwletli ogul nazar etdi’’ diýmek."
+    },
+    {
+        "name": "Baýnepes",
+        "meaning": "bu at oglanlara  dakylýan at. Manysy,,Baýyň nepesi bilen doglan ogul’’diýmek."
+    },
+    {
+        "name": "Baýguly",
+        "meaning": "Manysy ,,Baý, döwletli ogul’’ diýmek."
+    },
+    {
+        "name": "Baýgurban",
+        "meaning": "Manysy ,,Gurban aýynda doglan döwletli ogul’’ diýmek."
+    },
+    {
+        "name": "Baýgylyç",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Döwletli, baý bolsun, uzak ýa’asyn, ölmesin’’ diýmek."
+    },
+    {
+        "name": "Baýdak",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Durmuşy baýýdak ýaly parlaýarsyn’’ diýmek."
+    },
+    {
+        "name": "Baýdöwlet",
+        "meaning": "bu at oglanlara dakylýan at. Manysy,,Baý we döwletli ogul’’diýmek."
+    },
+    {
+        "name": "Bazarguly",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Bazar güni doglan ogul’’ diýmek."
+    },
+    {
+        "name": "Bazarmyra",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Bazar güni doglan ogul myrat-maksadyna ýetsin’’ diýmek."
+    },
+    {
+        "name": "Baý",
+        "meaning": "Manysy ,,Baý, döwletli bolsun’’ diýmek"
+    },
+    {
+        "name": "Baýbaba",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Döwletli, baý baba bolsun, uzak ýaşasyn’’ diýmek."
+    },
+    {
+        "name": "Baýgeldi",
+        "meaning": "bu at oglanlara  dakylýan at. Manysy,,Baý, döwletli ogul geldi’’diýmek."
+    },
+    {
+        "name": "Badal",
+        "meaning": "  bu at oglanlara dakylýan at. Manysy ,,Erjel’’ diýmek."
+    },
+    {
+        "name": "Baetddin",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Diniň gymmatly sowgady, şöhlesi nury’’ diýmek."
+    },
+    {
+        "name": "Bazar",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Bazar güni doglan ogul’’ diýmek."
+    },
+    {
+        "name": "Bazarbaý",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Bazar güni doglan döwletli ogul’’ diýmek. "
+    },
+    {
+        "name": "Bazargeldi",
+        "meaning": "bu at oglanlara  dakylýan at. Manysy,,Bazar güni gelen ogul’’diýmek."
+    },
+    {
+        "name": "Bagmät",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Bagly, daňylgy, bagy bek ogla Muhammede ýar bolsun, uzak ýaşasyn’’ diýmek. "
+    },
+    {
+        "name": "Bagtgeldi",
+        "meaning": " bu at oglanlara dakylýan at. Manysy ,,Bagtly ogul dünýä indi’’ diýmek."
+    },
+    {
+        "name": "Bagtyýar",
+        "meaning": " Manysy ,,Hemişe bagt ýar bolsun’’ diýmek. "
+    },
+    {
+        "name": "Bagşy",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Bagşy ýaly atly-abraýly, ile ýaramly ogul bolsun’’ diýmek. "
+    },
+    {
+        "name": "Bagyr",
+        "meaning": "bu at oglanlara dakylýan at. Manysy,,Aýypsyz, şikessiz’’diýmek. "
+    },
+    {
+        "name": "Babahan",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Babasynyň han ogly’’ diýmek. "
+    },
+    {
+        "name": "Babaşir",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Uzak ýaşasyn we şir, ýolbars ýaly dogumly güýçli bolsun’’ diýmek. "
+    },
+    {
+        "name": "Babaýar",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Babasyna hemra boljak we oňa hyzmat etjek ogul’’ diýmek. "
+    },
+    {
+        "name": "Babyr",
+        "meaning": " bu at oglanlara dakylýan at. Manysy ,,Ýolbars ýaly güýçli we batyr bolsun’’ diýmek."
+    },
+    {
+        "name": "Bagdan",
+        "meaning": "bu at oglanlara  dakylýan at. Manysy,,Baharda bagda doglan ogul’’diýmek. "
+    },
+    {
+        "name": "Babamyrat",
+        "meaning": " bu at oglanlara dakylýan at. Manysy ,,Babasynyň myradyny, arzuwyny hasyl eden ogul’’ diýmek."
+    },
+    {
+        "name": "Babanazar",
+        "meaning": " bu at oglanlara dakylýan at. Manysy ,,Babasynyň nazary düşen ogul’’ diýmek."
+    },
+    {
+        "name": "Babatagan",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Baba bolsun,uzak ýaşasyn’’ diýmek. "
+    },
+    {
+        "name": "Baba",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,’’ diýmek "
+    },
+    {
+        "name": "Babaesen",
+        "meaning": "bu at oglanlara dakylýan at. Manysy,,Aman-esen uzak ýaşasyn, baba bolsun’’diýmek."
+    },
+    {
+        "name": "Babaguly",
+        "meaning": " Manysy ,,Babasynyň guly, hyzmatkäri’’ diýmek."
+    },
+    {
+        "name": "Babagylyç",
+        "meaning": "Manysy ,,Babasynyň ady dakylan ogul uzak ýaşasyn’’ diýmek. "
+    },
+    {
+        "name": "Babadurdy",
+        "meaning": "Manysy ,,Baba bolsun, uzak ýaşasyn’’ diýmek. "
+    },
+    {
+        "name": "Babakişi",
+        "meaning": " Manysy ,,Babasynyň ornuny tutjak kişi’’ diýmek."
+    },
+    {
+        "name": "Babaly",
+        "meaning": "Manysy,,Babaly, babasyna gowşan ogul’’diýmek."
+    },
+    {
+        "name": "Aýaz",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Aýazly gün doglan çaga’’ diýmek. "
+    },
+    {
+        "name": "Baba",
+        "meaning": " Manysy ,,Babasynyň ady dakylan’’ diýmek."
+    },
+    {
+        "name": "Babaata",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Maşgala ýaşulysynyň ady dakylan ’’ diýmek. "
+    },
+    {
+        "name": "Babagarry",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Garry babasynyň ady dakylan ogul’’ diýmek. "
+    },
+    {
+        "name": "Babageldi",
+        "meaning": "bu at oglanlara dakylýan at. Manysy,,Babasy gelen güni doglan ogul’’diýmek. "
+    },
+    {
+        "name": "Aşyrnur",
+        "meaning": " Manysy ,,Aşyr aýynda doglan nurana’’ diýmek."
+    },
+    {
+        "name": "Aşyrnyýaz",
+        "meaning": " bu at oglanlara dakylýan at. Manysy ,,Aşyr aýynda sowgat berlen çaga’’ diýmek."
+    },
+    {
+        "name": "Aşyrpolat",
+        "meaning": " bu at oglanlara dakylýan at. Manysy ,,Aşyr aýynda doglan çaga polat ýaly berk bolsun, kesellemesin’’ diýmek."
+    },
+    {
+        "name": "Aşyrtagan",
+        "meaning": " bu at oglanlara dakylýan at. Manysy ,,Aşyr aýynda doglan çaga uzak ýaşasyn, ölmesin’’ diýmek."
+    },
+    {
+        "name": "Aýaw",
+        "meaning": "bu at oglanlara  dakylýan at. Manysy,,Aýalýan ogul’’diýmek. "
+    },
+    {
+        "name": "Aşyrgylyç",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Aşyr aýynda doglan ogul uzak ýaşasyn, ölmesin ýa-da ýiti, akylly bolsun’’ diýmek. "
+    },
+    {
+        "name": "Aşyrdöwlet",
+        "meaning": " Manysy ,,Aşyr aýynda doglan ýigit döwletli bolsun’’ diýmek."
+    },
+    {
+        "name": "Aşyrdurdy",
+        "meaning": "Manysy ,,Aşyr aýynda doglan çaga dursun, uzak ýaşasyn, ölmesin’’ diýmek. "
+    },
+    {
+        "name": "Aşyrmuhammet",
+        "meaning": " Manysy ,,Aşyr aýynda doglan şanly-şöhratly, öwgüli ogul’’ diýmek."
+    },
+    {
+        "name": "Aşyrmyrat",
+        "meaning": " bu at oglanlara  dakylýan at. Manysy,,Aşyr aýynda doglan şanly-şöhratly ogul myrat-maksadyna ýetsin’’diýmek."
+    },
+    {
+        "name": "Aşyrbaý",
+        "meaning": "Manysy ,,Aşyr aýynda doglan döwletli ogul’’ diýmek. "
+    },
+    {
+        "name": "Aşyrberdi",
+        "meaning": " bu at oglanlara dakylýan at. Manysy ,,Aşyr aýynda berlen ogul’’ diýmek."
+    },
+    {
+        "name": "Aşyrweli",
+        "meaning": " bu at oglanlara dakylýan at. Manysy ,,Aşyr aýynda doglan ogul bilimli, weli bolsun’’ diýmek."
+    },
+    {
+        "name": "Aşyrgeldi",
+        "meaning": " bu at oglanlara dakylýan at. Manysy ,,Aşyr aýynda gelen ogul’’ diýmek."
+    },
+    {
+        "name": "Aşyrguly",
+        "meaning": "bu at oglanlara  dakylýan at. Manysy,,Aşyr aýynda doglan ogul’’diýmek. "
+    },
+    {
+        "name": "Aşgabat",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Aşgabatda doglan’’ diýmek. "
+    },
+    {
+        "name": "Aşyk",
+        "meaning": " bu at oglanlara dakylýan at. Manysy ,,Durmuşy gözelligi söýýän’’ diýmek."
+    },
+    {
+        "name": "Aşykguly",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Durmuşy, gözelligi söýýän ogul’’ diýmek. "
+    },
+    {
+        "name": "Aşyr",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Onluk’’ diýmek. "
+    },
+    {
+        "name": "Aşyraly",
+        "meaning": " bu at oglanlara dakylýan at. Manysy,,Aşyr aýynda doglan belent derejeli ogul’’diýmek."
+    },
+    {
+        "name": "",
+        "meaning": " "
+    },
+    {
+        "name": "",
+        "meaning": " "
+    },
+    {
+        "name": "",
+        "meaning": " "
+    },
+    {
+        "name": "",
+        "meaning": " "
+    },
+    {
+        "name": "",
+        "meaning": " "
+    },
+    {
+        "name": "",
+        "meaning": " "
+    },
+    {
+        "name": "",
+        "meaning": " "
+    },
+    {
+        "name": "",
+        "meaning": " "
+    },
+    {
+        "name": "",
+        "meaning": " "
+    },
+    {
+        "name": "",
+        "meaning": " "
+    },
+    {
+        "name": "",
+        "meaning": " "
+    },
+    {
+        "name": "",
+        "meaning": " "
+    },
+    {
+        "name": "",
+        "meaning": " "
+    },
+    {
+        "name": "",
+        "meaning": " "
+    },
+    {
+        "name": "",
+        "meaning": " "
+    },
+    {
+        "name": "",
+        "meaning": " "
+    },
+    {
+        "name": "",
+        "meaning": " "
+    },
+    {
+        "name": "",
+        "meaning": " "
+    },
+    {
+        "name": "",
+        "meaning": " "
+    },
+    {
+        "name": "",
+        "meaning": " "
+    },
+    {
+        "name": "",
+        "meaning": " "
+    },
+    {
+        "name": "",
+        "meaning": " "
+    },
+    {
+        "name": "",
+        "meaning": " "
+    },
+    {
+        "name": "",
+        "meaning": " "
+    },
+    {
+        "name": "",
+        "meaning": " "
     }
+
+    
 ]
