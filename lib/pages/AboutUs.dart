@@ -25,8 +25,8 @@ class Aboutus extends StatelessWidget {
     var width = MediaQuery.of(context).size.width;
     return Scaffold(
       appBar: AppBar(
-        title: Center(child: Text("Biz Hakynda")),
-        backgroundColor: Colors.amber,
+        title: Center(child: Text("Biz Hakynda", style: Theme.of(context).textTheme.titleLarge,)),
+        backgroundColor: Theme.of(context).appBarTheme.backgroundColor,
         actions: [
           PopupMenuButton(
             onSelected: (value){
@@ -38,8 +38,8 @@ class Aboutus extends StatelessWidget {
                 child: Row(
                   children: [
                     Image.asset("lib/assets/images/instagram.png", width: width*0.05,),
-                    SizedBox(width: width*0.03,),
-                    Text("Instagram")
+                    SizedBox(width: width*0.035,),
+                    Text("Instagram", style: Theme.of(context).textTheme.titleMedium,)
                   ],
                 ),
               ),
@@ -48,8 +48,8 @@ class Aboutus extends StatelessWidget {
                 child: Row(
                   children: [
                     Image.asset("lib/assets/images/twitter.png", width: width*0.05,),
-                    SizedBox(width: width*0.03,),
-                    Text("Twitter")
+                    SizedBox(width: width*0.035,),
+                    Text("Twitter", style: Theme.of(context).textTheme.titleMedium)
                   ],
                 )
               ),
@@ -57,16 +57,16 @@ class Aboutus extends StatelessWidget {
                 value: "GitHub",
                 child: Row(children: [
                   Image.asset("lib/assets/images/github.png", width: width*0.05,),
-                  SizedBox(width: width*0.03,),
-                  Text("GitHub")
+                  SizedBox(width: width*0.035,),
+                  Text("GitHub", style: Theme.of(context).textTheme.titleMedium)
                 ],)
               ),
               PopupMenuItem(
                 value: "Linkedin",
                 child: Row(children: [
                   Image.asset("lib/assets/images/linkedin.png", width: width*0.05,),
-                  SizedBox(width: width*0.03,),
-                  Text("Linkedin")
+                  SizedBox(width: width*0.035,),
+                  Text("Linkedin", style: Theme.of(context).textTheme.titleMedium)
                 ],)
               ),
 
@@ -85,7 +85,7 @@ class Aboutus extends StatelessWidget {
             Padding(
               padding: const EdgeInsets.only(left: 10.0, right: 10.0),
               child: Text("Bu programma türkmen oglan we gyz atlarynyň manysyny düşündirýän ýörite niýetlenen maglumat çeşmesidir. Maksadymyz – halkymyzyň baý dil mirasyna, ýagny türkmen atlarynyň gelip çykyşyna we many taýdan mazmunyna has gowy düşünmäge ýardam bermekdir. Progarmmamyzy ulanmak arkaly siz dürli atlaryň näme many berýändigini öwrenip bilersiňiz. Şeýle hem, çagalaryňyza at saýlanyňyzda peýdaly maglumat tapyp bilersiňiz. Goşundy elmydama täzelenýär we has giňişleýin maglumat bilen baýlaşdyrylýar. Sizi türkmen medeniýetine bolan söýgimizi paýlaşmaga çagyrýarys! \n Eger bu programma barada haýsydyr bir teklibiňiz bar bolsa, bize habar bermegiňizi isleýäris - sizi diňlemäne şat bolarys. ",
-              style: TextStyle(fontSize: width*0.04), textAlign: TextAlign.center,),
+              style: Theme.of(context).textTheme.titleMedium, textAlign: TextAlign.center,),
             )
           ],
         ),

@@ -10,6 +10,17 @@ class Female extends StatefulWidget {
 }
 
 class _FemaleState extends State<Female> {
+  Set<int> favorites = {};
+
+  void favorite_uytget(int index){
+    setState(() {
+      if (favorites.contains(index)){
+        favorites.remove(index);
+      } else{
+        favorites.add(index);
+      }
+    });
+  }
 
   List<dynamic> girl_names = [];
   @override
@@ -56,15 +67,24 @@ class _FemaleState extends State<Female> {
                   child: Container(
                     height: height*0.07,
                     child: Row(
-                      mainAxisAlignment: MainAxisAlignment.start,
+                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       crossAxisAlignment: CrossAxisAlignment.center,
                       children: [
                         Padding(
                           padding: const EdgeInsets.all(8.0),
                           child: Image.asset("lib/assets/images/gyz.png"),
                         ),
-                        SizedBox(width: width*0.05,),
-                        Text(girl_names[index]["name"], style: TextStyle(fontSize: width*0.05, fontWeight: FontWeight.bold),)
+                        Text(girl_names[index]["name"], style: TextStyle(fontSize: width*0.05, fontWeight: FontWeight.bold),),
+                        GestureDetector(
+                          onTap: (){
+                            favorite_uytget(index);
+                          },
+                          child: Padding(
+                            padding: const EdgeInsets.only(left: 15.0, right: 15.0),
+                            child: Icon(favorites.contains(index) ? Icons.favorite : Icons.favorite_border_outlined ,
+                            color: favorites.contains(index) ? Colors.red : Colors.black,),
+                          ),
+                        )
                       ],
                     )
                     

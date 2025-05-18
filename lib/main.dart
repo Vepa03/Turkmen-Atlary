@@ -1,9 +1,11 @@
 import 'package:flutter/material.dart';
+import 'package:learn/Provider.dart';
 import 'package:learn/pages/Home.dart';
-import 'package:lottie/lottie.dart';
+import 'package:provider/provider.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(ChangeNotifierProvider( create: (context) => ThemeProvider(),
+    child: const MyApp()));
 }
 
 class MyApp extends StatelessWidget {
@@ -14,8 +16,7 @@ class MyApp extends StatelessWidget {
     
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(
-      ),
+      theme: Provider.of<ThemeProvider>(context).themeData,
       home: const MyHomePage(),
     );
   }

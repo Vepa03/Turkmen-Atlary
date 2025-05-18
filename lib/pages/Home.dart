@@ -1,10 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:learn/Provider.dart';
 import 'package:learn/pages/AboutUs.dart';
 import 'package:learn/pages/Female.dart';
 import 'package:learn/pages/Male.dart';
 import 'package:learn/pages/Menu.dart';
 import 'package:lottie/lottie.dart';
+import 'package:provider/provider.dart';
 import 'package:share_plus/share_plus.dart';
 
 
@@ -16,6 +18,22 @@ class Home extends StatefulWidget {
 }
 
 class _HomeState extends State<Home> {
+  bool ikon= false;
+  String tema_ady = "Gije";
+
+  void ikno_uytget (){
+    setState(() {
+      ikon = !ikon;
+    });
+  }
+
+  void tema_adyny (){
+    setState(() {
+      tema_ady = tema_ady == "Gije" ? "Gundiz" : "Gije";
+    });
+  }
+
+
 
   int saylanan_index = 0;
   static const List<Widget> option = <Widget>[
@@ -37,12 +55,14 @@ class _HomeState extends State<Home> {
 
     return Scaffold(
       appBar: AppBar(
-        title: Center(child: Text("Turkmen Adam Atlary")),
+        backgroundColor: Theme.of(context).appBarTheme.backgroundColor,
+        title: Center(child: Text("Turkmen Adam Atlary", style: Theme.of(context).textTheme.titleLarge,)),
         elevation: 2,
 
       ),
 
       drawer: Drawer(
+        backgroundColor: Theme.of(context).bottomAppBarTheme.color,
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.center,
           mainAxisAlignment: MainAxisAlignment.center,
@@ -56,8 +76,8 @@ class _HomeState extends State<Home> {
               child: Column(
                 children: [
                   ListTile(
-                    leading: Icon(Icons.share, color: Colors.black,),
-                    title: Text("Share"),
+                    leading: Icon(Icons.share, color: Theme.of(context).iconTheme.color,),
+                    title: Text("Share", style:  Theme.of(context).textTheme.titleMedium,),
                     onTap: (){
                       SharePlus.instance.share(
                       ShareParams(uri: Uri.parse("https://babayev.vercel.app/?fbclid=PAZXh0bgNhZW0CMTEAAaf91ZS4QuX1NuzO1LNAZBAZe2u3utUZa0PpwS_uWKeKTljvFkN2jTd5DYfAww_aem_1GklYLWmJx06H6GYsUgCRQ")),
@@ -65,23 +85,25 @@ class _HomeState extends State<Home> {
                     },
                   ),
                   ListTile(
-                    leading: Icon(Icons.info_outline, color: Colors.black,),
-                    title: Text("Biz Hakynda"),
+                    leading: Icon(Icons.info_outline, color: Theme.of(context).iconTheme.color),
+                    title: Text("Biz Hakynda", style:  Theme.of(context).textTheme.titleMedium,),
                     onTap: (){
                       Navigator.push(context, MaterialPageRoute(builder: (context)=> Aboutus()));
                     },
                   ),
                   ListTile(
-                    leading: Icon(Icons.dark_mode_outlined, color: Colors.black,),
-                    title: Text("Gundiz"),
+                    leading: Icon(ikon ? Icons.wb_sunny_outlined : Icons.nightlight_outlined, color: Theme.of(context).iconTheme.color,),
+                    title: Text(tema_ady, style:  Theme.of(context).textTheme.titleMedium,),
                     onTap: (){
-                      
+                      ikno_uytget();
+                      tema_adyny();
+                      Provider.of<ThemeProvider>(context, listen: false).toggleTheme();
                     },
                   ),
                   Divider(color: Colors.black,),
                   ListTile(
-                    leading: Icon(Icons.exit_to_app, color: Colors.black,),
-                    title: Text("Cykalga"),
+                    leading: Icon(Icons.exit_to_app, color: Theme.of(context).iconTheme.color),
+                    title: Text("Cykalga", style:  Theme.of(context).textTheme.titleMedium,),
                     onTap: (){
                       SystemNavigator.pop();
                     },
@@ -97,10 +119,10 @@ class _HomeState extends State<Home> {
       bottomNavigationBar: BottomNavigationBar(
         elevation: 2,
         items: <BottomNavigationBarItem>[
-          BottomNavigationBarItem(icon: Icon(Icons.home_filled, color: const Color.fromARGB(255, 0, 0, 0),), label: ""),
-          BottomNavigationBarItem(icon: Icon(Icons.male,color: const Color.fromARGB(255, 0, 0, 0),), label: ""),
-          BottomNavigationBarItem(icon: Icon(Icons.female, color: const Color.fromARGB(255, 0, 0, 0),), label: ""),
-          BottomNavigationBarItem(icon: Icon(Icons.favorite_border_outlined, color: const Color.fromARGB(255, 0, 0, 0),), label: ""),
+          BottomNavigationBarItem(icon: Icon(Icons.home_filled, color: Theme.of(context).iconTheme.color), label: ""),
+          BottomNavigationBarItem(icon: Icon(Icons.male,color: Theme.of(context).iconTheme.color), label: ""),
+          BottomNavigationBarItem(icon: Icon(Icons.female, color: Theme.of(context).iconTheme.color), label: ""),
+          BottomNavigationBarItem(icon: Icon(Icons.favorite_border_outlined, color: Theme.of(context).iconTheme.color), label: ""),
         ],
         currentIndex: saylanan_index,
         selectedItemColor: const Color.fromARGB(255, 0, 0, 0),
