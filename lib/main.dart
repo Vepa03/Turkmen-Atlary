@@ -1,11 +1,17 @@
 import 'package:flutter/material.dart';
+import 'package:learn/FavoriteProvider.dart';
 import 'package:learn/Provider.dart';
 import 'package:learn/pages/Home.dart';
 import 'package:provider/provider.dart';
 
 void main() {
-  runApp(ChangeNotifierProvider( create: (context) => ThemeProvider(),
-    child: const MyApp()));
+  runApp(MultiProvider(
+    providers: [
+      ChangeNotifierProvider( create: (context) => ThemeProvider()),
+      ChangeNotifierProvider(create: (_) => FavoriteProvider()..loadFavorites()),
+    ],
+      child: const MyApp()),
+  );
 }
 
 class MyApp extends StatelessWidget {

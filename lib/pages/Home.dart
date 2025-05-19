@@ -1,7 +1,10 @@
+import 'dart:io';
+
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:learn/Provider.dart';
 import 'package:learn/pages/AboutUs.dart';
+import 'package:learn/pages/Favorites.dart';
 import 'package:learn/pages/Female.dart';
 import 'package:learn/pages/Male.dart';
 import 'package:learn/pages/Menu.dart';
@@ -40,7 +43,7 @@ class _HomeState extends State<Home> {
     Menu(),
     Male(),
     Female(),
-    Text("data 4"),
+    Favorites()
   ];
 
   void _onitemTapped(int index){
@@ -105,7 +108,11 @@ class _HomeState extends State<Home> {
                     leading: Icon(Icons.exit_to_app, color: Theme.of(context).iconTheme.color),
                     title: Text("Cykalga", style:  Theme.of(context).textTheme.titleMedium,),
                     onTap: (){
-                      SystemNavigator.pop();
+                      if (Platform.isAndroid){
+                        SystemNavigator.pop();
+                      }else if (Platform.isIOS){
+                        Navigator.of(context).pop();
+                      }
                     },
                   ),
                 ],

@@ -450,7 +450,790 @@
     {
         "name": "Derýa",
         "meaning": " bu at gyzlara  dakylýan at. Manysy ,,Derýa ýaly giň bolsun ’’ diýmek. "
+    },
+    {
+        "name": "Dilara",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Söýgüli, ýürege aram beriji  gözel gyz ‘’diýmek."
+    },
+    {
+        "name": "Dilaram",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,, Ýürege asudalyk beriji gyz‘’diýmek."
+    },
+    {
+        "name": "Dilber",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,,Söýgüli, ajaýyp gyz ‘’diýmek."
+    },
+    {
+        "name": "Dildar",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Söýgüli, mähriban gyz’’ diýmek."
+    },
+    {
+        "name": "Dolanaý",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,,Aý doluşanda doglan gyz ’’ diýmek."
+    },
+    {
+        "name": "Çemen",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,,Gülli otlar gögerýän ýer ‘’diýmek."
+    },
+    {
+        "name": "Danagül",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Akylly we görmegeý gyz ‘’diýmek."
+    },
+    {
+        "name": "Datly",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,, Süýji dilli bolsun‘’diýmek."
+    },
+    {
+        "name": "Desse",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,,Bir desse gül, çemen’’ diýmek."
+    },
+    {
+        "name": "Dessegül",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,, Gülüň dessesi, çemen ýaly owadan gyz’’ diýmek."
+    },
+    {
+        "name": "Bägül",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,,Bägül ýaly owadan gyz ‘’diýmek."
+    },
+    {
+        "name": "Bähramgül",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,, Ýyldyz ýaly şöhle saçýan gyz‘’diýmek."
+    },
+    {
+        "name": "Çynar",
+        "meaning": "Manysy ,, Çynar ýaly başy dik, görmegeý, ömri uzak bolsun‘’diýmek."
+    },
+    {
+        "name": "Çynarbibi",
+        "meaning": "Manysy ,,Uzyn boýly, görmegeý we belent derejeli gyz ’’ diýmek."
+    },
+    {
+        "name": "Çynargül",
+        "meaning": "Manysy ,,Uzyn boýly gözel gyz ’’ diýmek."
+    },
+    {
+        "name": "Bilbil",
+        "meaning": "Manysy ,, Süýji dilli, bilbil ýaly sesli gyz‘’diýmek."
+    },
+    {
+        "name": "Bossan",
+        "meaning": "Manysy ,, Bossan, gülzarlyk, bakja ekilen ýer‘’diýmek."
+    },
+    {
+        "name": "Bossangözel",
+        "meaning": "Manysy ,, Gözel gyzyň durmuşy gül-gülzar bolsun‘’diýmek."
+    },
+    {
+        "name": "Bossangül",
+        "meaning": "Manysy ,, Bossanyň güli’’ diýmek."
+    },
+    {
+        "name": "Bossantäç",
+        "meaning": "Manysy ,,Bedeninde täji bolan gyzyň durmuşy gülgüzar bolsun ’’ diýmek."
+    },
+    {
+        "name": "Bibihajat",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,, Belent derejeli we gerekli gyz‘’diýmek."
+    },
+    {
+        "name": "Bibihal",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,, Belent derejeli we hally gyz‘’diýmek."
+    },
+    {
+        "name": "Bibişeker",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Belent derejeli we süýji dilli gyz ‘’diýmek."
+    },
+    {
+        "name": "Bibiäşe",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,,Belent derejeli gyz uzak ýaşasyn ’’ diýmek."
+    },
+    {
+        "name": "Bike",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,, Hormatly, atly abraýly, belent, derejeli gyz’’ diýmek."
+    },
+    {
+        "name": "Bibisona",
+        "meaning": "Manysy ,,Belent derejeli owadan gyz ‘’diýmek."
+    },
+    {
+        "name": "Bibisuraý",
+        "meaning": "Manysy ,, Belent derejeli ýakymly gyz‘’diýmek."
+    },
+    {
+        "name": "Bibitagan",
+        "meaning": "Manysy ,,Belent derejeli gyz ölmesin, uzak ýaşasyn ‘’diýmek."
+    },
+    {
+        "name": "Bibitäç",
+        "meaning": "Manysy ,, Bedeninde täji bolan belent derejeli gyz’’ diýmek."
+    },
+    {
+        "name": "Bibihajar",
+        "meaning": "Manysy ,,Syýahatçy, jahankeşde ’’ diýmek."
+    },
+    {
+        "name": "Bibirejep",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Rejep aýynda doglan belent derejeli gyz ‘’diýmek."
+    },
+    {
+        "name": "Bibisapar",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Sapar aýynda doglan belent derejeli gyz ‘’diýmek."
+    },
+    {
+        "name": "Bibisara",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,, Hormatly, belent derejeli‘’diýmek."
+    },
+    {
+        "name": "Bibisenem",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,,Belent derejeli we iňňän gözel gyz ’’ diýmek."
+    },
+    {
+        "name": "Bibisere",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,, Belent derejeli, gyzlaryň hany-soltany, seresi’’ diýmek."
+    },
+    {
+        "name": "Asly",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Asylly, terbiýeli gyz’’ diýmek."
+    },
+    {
+        "name": "Aýla",
+        "meaning": "Manysy ,,Dolan aýda dünýä gelen gyz’’ diýmek."
+    },
+    {
+        "name": "Aýsel",
+        "meaning": "Manysy ,,Aý ýaly owadan, serwi boýly gyz bolsun’’ diýmek."
+    },
+    {
+        "name": "Aýmelek",
+        "meaning": " Manysy ,,Aý ýaly owadan, melek ýaly päk’’ diýmek."
+    },
+    {
+        "name": "Aýsoltan",
+        "meaning": "Manysy ,, Aý ýaly gözel gyzlaryň seresi’’ diýmek."
+    },
+    {
+        "name": "Bibinar",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Bedeninde nary bolan belent derejeli gyz’’ diýmek."
+    },
+    {
+        "name": "Bibinur",
+        "meaning": "Manysy ,,Belent derejeli nurana gyz’’ diýmek."
+    },
+    {
+        "name": "Bibinyýaz",
+        "meaning": " Manysy ,,Diläp alnan belent derejeli gyz’’ diýmek."
+    },
+    {
+        "name": "Bibinäzik",
+        "meaning": "Manysy ,,Belent derejeli, näzik, mylaýym gyz’’ diýmek."
+    },
+    {
+        "name": "Bibirabga",
+        "meaning": "Manysy ,,Belent derejeli dördünji gyz’’ diýmek."
+    },
+    {
+        "name": "Bibijennet",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Belent derejeli gyz eşretli durmuşda ýaşasyn’’ diýmek."
+    },
+    {
+        "name": "Bibijeren",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Belent derejeli we keýik ýaly çalasyn gyz’’ diýmek."
+    },
+    {
+        "name": "Bibizinet",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Belent derejeli bezemen gyz’’ diýmek."
+    },
+    {
+        "name": "Bibimerýem",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Allanyň halany’’ diýmek."
+    },
+    {
+        "name": "Bibinabat",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Derejesi belent we nabat ýaly süýjii dilli gyz’’ diýmek."
+    },
+    {
+        "name": "Bibigül",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Belent derejeli we gül ýaly gözel gyz’’ diýmek."
+    },
+    {
+        "name": "Bibigyz",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Belent derejeli gyz’’ diýmek."
+    },
+    {
+        "name": "Bibijan",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Belent derejeli mähriban gyz’’ diýmek."
+    },
+    {
+        "name": "Bibijahan",
+        "meaning": "Manysy ,,Belent derejeli gyzyň dünýäsi giň bolsun’’ diýmek."
+    },
+    {
+        "name": "Bibijemal",
+        "meaning": "Manysy ,,Belent derejeli owadan gyz’’ diýmek."
+    },
+    {
+        "name": "Behişt",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Eşretli durmuşda ýaşasyn’’ diýmek."
+    },
+    {
+        "name": "Beşire",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Buşlukçy’’ diýmek."
+    },
+    {
+        "name": "Bibi",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Hanym’’ diýmek."
+    },
+    {
+        "name": "Bibiaraz",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Hormatly, belent derejeli we bagtly gyz’’ diýmek."
+    },
+    {
+        "name": "Bibigözel",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Belent derejeli owadan gyz’’ diýmek."
+    },
+    {
+        "name": "Bernagül",
+        "meaning": " bu at gyzlara  dakylýan at. Manysy ,,Ter gül ýaly owadan gyz’’ diýmek."
+    },
+    {
+        "name": "Bessir",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Indi gyz dogulmasyn, ogul bolsun’’ diýmek."
+    },
+    {
+        "name": "Bessirgözel",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Gözelem bolsa indi gyz dogulmasyn, ogul dogulsyn’’ diýmek."
+    },
+    {
+        "name": "Begimaý",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Aý ýaly owadan, hormatly gyz’’ diýmek."
+    },
+    {
+        "name": "Begres",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Owadan, gymmat bahaly matanyň ady’’ diýmek."
+    },
+    {
+        "name": "Begsoltan",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Begler, soltanlar ýaly atly-abraýly, hökmürowan gyz’’ diýmek."
+    },
+    {
+        "name": "Baharjemal",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Baharyň güli ýaly görmegeý gyz’’ diýmek."
+    },
+    {
+        "name": "Baharşat",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Baharda doglan bagtly we şadyýan gyz’’ diýmek."
+    },
+    {
+        "name": "Baharýaz",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Baharda, ýazda doglan’’ diýmek."
+    },
+    {
+        "name": "Bahmal",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Mahmal ýaly mylaýym, owadan, görmegeý gyz’’ diýmek."
+    },
+    {
+        "name": "Begim",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Abraýly we gyz’’ diýmek."
+    },
+    {
+        "name": "Balhan",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Süýji dilli gyz, gyzlaryň hany, seresi bolsun’’ diýmek."
+    },
+    {
+        "name": "Bahaly",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Gymmatly, ýokary bahaly gyz’’ diýmek."
+    },
+    {
+        "name": "Bahar",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Baharda, ýazda doglan’’ diýmek."
+    },
+    {
+        "name": "Baharaý",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Baharda doglan gyz’’ ýa-da ,,Gözel gyzyň durmuş ýoly gül açsyn, güllesin’’ diýmek."
+    },
+    {
+        "name": "Bahargül",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Baharyň, ýazyň güli ýa-da baharda doglan owadan gyz’’ diýmek."
+    },
+    {
+        "name": "Arzuw",
+        "meaning": "bu at oglanlara dakylýan at. Manysy ,,Arzuw edilip ýetilen ýa-da arzuwymyzy hasyl eden çaga’’ diýmek."
+    },
+    {
+        "name": "Baýramjemal",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Baýramçylykda doglan görmegeý gyz’’ diýmek."
+    },
+    {
+        "name": "Baýramtäç",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Baýramçylykda doglan we bedeninde täji bolan gyz’’ diýmek."
+    },
+    {
+        "name": "Bakja",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy Bakjagül diýen at bilen meňzeş."
+    },
+    {
+        "name": "Bakjagül",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Bakjanyň güli ýaly gözel gyz’’ diýmek."
+    },
+    {
+        "name": "Baýrambike",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Baýramçylykda doglan hormatly gyz’’ diýmek."
+    },
+    {
+        "name": "Baýramgül",
+        "meaning": " bu at gyzlara  dakylýan at. Manysy ,,Baýramçylykda doglan gözel gyz’’ diýmek."
+    },
+    {
+        "name": "Baýramdursun",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Baýramçylykda doglan gyz dursun, ölmesin, uzak ýaşasyn’’ diýmek."
+    },
+    {
+        "name": "Baýramjahan",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Baýramçylykda doglan gyzyň dünýäsi giň bolsun’’ diýmek."
+    },
+    {
+        "name": "Baýramgözel",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Baýramçylykda doglan gözel gyz’’ diýmek."
+    },
+    {
+        "name": "Bazarbike",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Bazar güni doglan hormatly gyz’’ diýmek"
+    },
+    {
+        "name": "Bazargül",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Bazar güni doglan gözel gyz’’ diýmek."
+    },
+    {
+        "name": "Baýgül",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Döwletli we gül ýaly gözel gyz’’ diýmek."
+    },
+    {
+        "name": "Baýrambagt",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Baýramçylykda doglan bagtly gyz’’ diýmek."
+    },
+    {
+        "name": "Baýrambibi",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Baýramçylykda doglan belent derjeli gyz’’ diýmek."
+    },
+    {
+        "name": "Bagtynyýaz",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Dilenip alnan bagtly gyz uzak ýaşasyn’’ diýmek."
+    },
+    {
+        "name": "Bagtytäç",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Bedeninde täji bolan bagtly gyz’’ diýmek."
+    },
+    {
+        "name": "Badam",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Süýji dilli, ýakymly çaga’’ diýmek."
+    },
+    {
+        "name": "Badamgül",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Badamyň güli ýaly owadan gyz’’ diýmek."
+    },
+    {
+        "name": "Aşyrgül",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Aşyr aýynda doglan gözel gyz’’ diýmek."
+    },
+    {
+        "name": "Aşyrtäç",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Aşyr aýynda bedeni täçli doglan’’ diýmek."
+    },
+    {
+        "name": "Bagdagül",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,,Bagdaky gül ýaly owadan, parlak gyz’’ diýmek."
+    },
+    {
+        "name": "Bagty",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy Bagtygül adyňky bilen meňzeş."
+    },
+    {
+        "name": "Bagtygözel",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Bagtly we gözel gyz’’ diýmek."
+    },
+    {
+        "name": "Asylgül",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Asylly we gül ýaly gözel gyz’’ diýmek."
+    },
+    {
+        "name": "Asyljan",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Asylly, mähriban gyz’’ diýmek."
+    },
+    {
+        "name": "Açylgül",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Gül ýaly açylsyn, keselinden gutulsyn’’ diýmek."
+    },
+    {
+        "name": "Aşyrbibi",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Aşyr aýynda doglan belent mertebeli gyz’’ diýmek."
+    },
+    {
+        "name": "Aşyrbike",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Aşyr aýynda doglan hormatly gyz’’ diýmek."
+    },
+    {
+        "name": "Artykgül",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Bedeninde artykmaç ösüntgisi bolan gözel gyz’’ diýmek."
+    },
+    {
+        "name": "Artykjemal",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Bedeni ösüntgili gözel gyz’’ diýmek."
+    },
+    {
+        "name": "Artyktäç",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Bedeninde artykmaç ösüntgisi bolan çaga’’ diýmek."
+    },
+    {
+        "name": "Asmangül",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Mertebesi belent we gül ýaly owadan gyz, asmanyň güli’’ diýmek."
+    },
+    {
+        "name": "Arzygül",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Arzyly we gül ýaly owadan gyz’’ diýmek"
+    },
+    {
+        "name": "Armangül",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Arman edilip ýetilen gül ýaly gyz’’ diýmek."
+    },
+    {
+        "name": "Artykbike",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Bedeninde artykmaç ösüntgisi bar bolan hormatly gyz’’ diýmek."
+    },
+    {
+        "name": "Artykgözel",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Bedeninde artykmaç ösüntgisi bolan gözel gyz’’ diýmek."
+    },
+    {
+        "name": "Arazbibi",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Bagtly gyz’’ diýmek."
+    },
+    {
+        "name": "Arazsoltan",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,,Bagtly we gyzlaryň hany, soltany, seresi bolsun’’ diýmek."
+    },
+    {
+        "name": "Araztäç",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,,Bedeninde täji bolan bagtly gyz’’ diýmek."
+    },
+    {
+        "name": "Annasona",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,,Anna güni doglan owadan gyz’’ diýmek."
+    },
+    {
+        "name": "Annatäç",
+        "meaning": " bu at gyzlara dakylýan at. Manysy ,,Anna güni doglan we bedeninde täji bolan gyz’’ diýmek."
+    },
+    {
+        "name": "Annaşeker",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,,Anna güni doglan süýji dilli gyz’’ diýmek."
+    },
+    {
+        "name": "Annaşirin",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Anna güni doglan süýji dilli gyz’’ diýmek."
+    },
+    {
+        "name": "Annajan",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,,Anna güni doglan mähriban çaga’’ diýmek."
+    },
+    {
+        "name": "Annajahan",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,,Anna güni doglan gyzyň dünýäsi giň bolsun’’ diýmek."
+    },
+    {
+        "name": "Annajemal",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,,Anna güni doglan görmegeý gyz’’ diýmek."
+    },
+    {
+        "name": "Annajeren",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,,Anna güni doglan gyz jeren ýaly bökjekläp össün, çalasyn bolsun’’ diýmek."
+    },
+    {
+        "name": "Annakeýik",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Anna güni doglan gyz keýik ýaly bökjekläp össün, çalasyn bolsun’’ diýmek."
+    },
+    {
+        "name": "Annabagt",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,,Anna güni doglan gyz bagtly bolsun’’ diýmek."
+    },
+    {
+        "name": "Annabibi",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,,Anna güni doglan belent derejeli gyz’’ diýmek."
+    },
+    {
+        "name": "Annabike",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,,Anna güni doglan hormatly gyz’’ diýmek."
+    },
+    {
+        "name": "Annagözel",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,,Anna güni doglan gözel gyz’’ diýmek."
+    },
+    {
+        "name": "Annadursun",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Anna güni doglan gyz dursun, ölmesin’’ diýmek."
+    },
+    {
+        "name": "Amantäç",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,,Bedeninde täji bolan gyz sag-aman ýaşasyn’’ diýmek."
+    },
+    {
+        "name": "Amanşeker",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,,Sag-aman ýaşasyn’’ diýmek."
+    },
+    {
+        "name": "Amanşirin",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,,Sag-aman ýaşasyn we şirin dilli bolsun’’ diýmek."
+    },
+    {
+        "name": "Andagül",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy Annagül ady bilen meňzeş."
+    },
+    {
+        "name": "Amandursun",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,,Sag-aman ýaşasyn’’ diýmek."
+    },
+    {
+        "name": "Amanjahan",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,,Aman ýaşasyn, dünýäsi giň bolsun’’ diýmek."
+    },
+    {
+        "name": "Amanjemal",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,,Görmegeý gyz aman-sag ýaşasyn’’ diýmek."
+    },
+    {
+        "name": "Amanmeňli",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Bedeninde meňi bolan çaga sag-aman uzak ýaşasyn’’ diýmek."
+    },
+    {
+        "name": "Amankeýik",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,,Aman –sag uzak ömür sürsün, keýik ýaly bökjekläp ýörsün’’ diýmek."
+    },
+    {
+        "name": "Almagül",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,,Almanyň güli ýaly owadan gyz’’ diýmek."
+    },
+    {
+        "name": "Altynaý",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,,Altyn ýaly gymmatly, aý ýaly nurana gyz’’ diýmek."
+    },
+    {
+        "name": "Altynbibi",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Altyn ýaly gymmatly we hormatly gyz’’ diýmek."
+    },
+    {
+        "name": "Aksoltan",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,,Bagtly gyz gyzlaryň soltany, seresi bolsun’’ diýmek."
+    },
+    {
+        "name": "Aksona",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,,Bagtly ýa-da sona ýaly owadan gyz’’ diýmek."
+    },
+    {
+        "name": "Aktäç",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,, Bagtly gyz başynyň täji bolsun’’ diýmek."
+    },
+    {
+        "name": "Akjuma",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,,Anna güni doglan bagtly çaga’’ diýmek."
+    },
+    {
+        "name": "Akmaýa",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,,Bagtly we maýa düýe ýaly ýuwaş gyz’’ diýmek."
+    },
+    {
+        "name": "Akmeňli",
+        "meaning": "bu at gyzlara  dakylýan at. Manysy ,,Ýüzünde meňi bolan bagtly gyz’’ diýmek."
+    },
+    {
+        "name": "Aýzada",
+        "meaning": "bu at gyzlara dakylýan at. Manysy ,,Aýyň perzendi’’ diýmek."
+    },
+    {
+        "name": "Güljemal",
+        "meaning": "Gül(Käbir ösümlikleriň açylýan ysly gunçasy) + Jemal (owadan, görkana, birkemsiz) atlaryndan meýdana gelen at bolup manysy - 'birkemsiz owadan gül'."
+    },
+    {
+        "name": "Güljennet",
+        "meaning": "Gül(Käbir ösümlikleriň açylýan ysly gunçasy) + Jennet( jennet bolup) atlaryndan meýdana gelen at bolup manysy - 'Jennet gelen gül diýen manyny aňlatýar'."
+    },
+    {
+        "name": "Güljan",
+        "meaning": "Gül(Käbir ösümlikleriň açylýan ysly gunçasy) + Jan (run, ömür, taze durmuş, güýj, energiýa) atlaryndan meýdana gelen at bolup manysy - 'gülüň ruhy, jany, gül ýaly eziz'. "
+    },
+    {
+        "name": "Göwher",
+        "meaning": "Göwher ýaly gymmat bahaly söýülen gyz bolsun"
+    },
+    {
+        "name": "Gül",
+        "meaning": "Gül ýaly owadan, ýakymly, özüne çekiji gyz bolsun"
+    },
+    {
+        "name": "Gülaý",
+        "meaning": "Gül ýaly owadan, Aý ýaly nurana gyz bolsun"
+    },
+    {
+        "name": "Gülaýym",
+        "meaning": "Gül(Käbir ösümlikleriň açylýan ysly gunçasy) + Aýym (dünýaniň hemrasy, gök ýüzüniň owadan jismi) - atlaryndan meýdana gelen at bolup manysys + 'Gül ýaly owadan, Aý ýaly nurana gyz bolsun'. "
+    },
+    {
+        "name": "Gülbahar",
+        "meaning": "Gül(Käbir ösümlikleriň açylýan ysly gunçasy) + Bahar (baharda (ýazda) dünýä inen gyz) - atlaryndan meýdana gelen at bolup manysys + 'Baharyň güli ýaly owadan gyz bolsun'. "
+    },
+    {
+        "name": "Güljahan",
+        "meaning": "Dünýäniň iň owadan gyz bolsun"
+    },
+    {
+        "name": "Güljeren",
+        "meaning": "Gül(Käbir ösümlikleriň açylýan ysly gunçasy) + Jeren (Keýik- Maral) atlaryndan meýdana gelen at bolup manysy = 'gül ýaly owadan, keýik ýaly çalasyn bolsun'."
+    },
+    {
+        "name": "Gülsenem",
+        "meaning": "Gül(Käbir ösümlikleriň açylýan ysly gunçasy) + Senem (ideal, ýokary maksat) atlaryndan meýdana gelen at bolup manysy = 'gül ýaly owadan, görmegeý'."
+    },
+    {
+        "name": "GÜLTÄÇ",
+        "meaning": "GÜL (Käbir ösümlikleriň açylýan ysly gunçasy) + TÄÇ (Häkimlik simwoly) iki atdan meýdana gelen bolup manysy - «gülüň täji; gülden hem gözel; gülleriň bezegi-dünýäniň bezegi»."
+    },
+    {
+        "name": "GÜLZADA",
+        "meaning": "Gül (käbir ösümlikleriň açylýan ysly gunçasy) + Zada (pars. çaga, perzent, bala) – atlaryndan meýdana gelen at bolup manysy = «gülüň nesli, iňňän gözel gyz»."
+    },
+    {
+        "name": "GÜLÄLEK",
+        "meaning": "GÜL (Käbir ösümlikleriň açylýan ysly gunçasy) + LÄLE (Gyzyl reňk gül) atlaryndan meýdana gelen at bolup manysy - «läleniň gülü ýaly owadan, päk gyz»."
+    },
+    {
+        "name": "GÜLŞAT",
+        "meaning": "GÜL (Käbir ösümlikleriň açylýan ysly gunçasy) + ŞAT (begenç, şatlyk, guwanç) atlaryndan meýdana gelen at bolup manysy - «gül ýaly owadan şatlyk getiren gyz»."
+    },
+    {
+        "name": "HALLYGÖZEL",
+        "meaning": "HALLY (meň) + GÖZEL (owadan, görkana, nurana) atlaryndan meýdana gelen at bolup manysy - «meňli owadan gyz; ýüzünde hal bolan gözel gyz»."
+    },
+    {
+        "name": "HATYJA",
+        "meaning": "Hz.Muhammediň birinji aýalynyň ady."
+    },
+    {
+        "name": "HUMAÝ",
+        "meaning": "Parsçadan gelen at bolup manysy = «bagt guşy, feniks guşy»."
+    },
+    {
+        "name": "HURMA",
+        "meaning": "Süýji dilli, uly derejeli gyz bolsun"
+    },
+    {
+        "name": "JAHAN",
+        "meaning": "Dünýäsi giň, asmany düri bolsun"
+    },
+    {
+        "name": "JEMAL",
+        "meaning": "Arapçadan gelen Jamal adynyň Türkmençe görnüşi bolup manysy - «owadan, görkana, birkemsiz»."
+    },
+    {
+        "name": "JEMILE",
+        "meaning": "Arapçadan gelen Jamal adynyň üýtgän Türkmençe görnüşi bolup manysy - «örän gowy, owadan, gözel»."
+    },
+    {
+        "name": "JENNET",
+        "meaning": "Türkmen ady bolup günümel manysy - «jennet; behişt; ajap ýer; eşretli ýer; gözel ýer; jennet ýaly; jennet ýaly gözel owadan gyz»."
+    },
+    {
+        "name": "JEREN",
+        "meaning": "Keýik-Maral, Owadan-çalasym gyz bolsun."
+    },
+
+    {
+        "name": "KEÝIK",
+        "meaning": "Türkmen ady bolup owadan dagda we çölde ýaşaýan süýtemdiriji - «keýik ýaly owadan, görkana gyz»."
+    },
+    {
+        "name": "KÄBE",
+        "meaning": "Arapçadan gelen at bolup Türkmençe manysy - «Mukaddes hasaplanýan metjit, haja barylýan ýer. Adam adynda - (mukaddes iňňän arzyly çaga)»."
+    },
+    {
+        "name": "KÜMÜŞ",
+        "meaning": "(Ak reňkli ýalpyldawuk gymmat baha metal) Türkmen ady bolup günümel manysy - «kümüş ýaly arassa, aýdyň, gymmat bahaly gyz»."
+    },
+    {
+        "name": "LEÝLA",
+        "meaning": "Arapçadan gelen at bolup Türkmençe manysy - «gijä dünýä inen, gijäniň gözelligini öz içine alan gyz, garaýagyz»."
+    },
+    {
+        "name": "LEÝLI",
+        "meaning": "Arapçadan gelen at bolup Türkmençe manysy - «gijä dünýä inen, gijäniň gözelligini öz içine alan gyz, garaýagyz»."
+    },
+    {
+        "name": "LÄLE",
+        "meaning": "Parsçadan gelen at bolup Türkmençe manysy - «gyzyl gül; çigildem, gül ýaly owadan gyz»."
+    },
+    {
+        "name": "MARAL",
+        "meaning": "Maral ýaly owadan gyz bolsun."
+    },
+    {
+        "name": "MAÝA",
+        "meaning": "1.⁠ ⁠Türkmen ady bolup bahar möwsüminiň ortasynda maý aýynda dünýä inen gyz. 2.⁠ ⁠Maýa ýaly ýuwaş mähirli gyz bolsun."
+    },
+    {
+        "name": "MAÝAGÖZEL",
+        "meaning": "MAÝA (maý aýynda dünýä inen gyz) + GÖZEL (owadan, görkana, nurana) atlaryndan meýdana gelen at bolup manysy - «maý aýynda dünýä inen owadan, görkana gyz; maýa ýaly ýuwaş hem gözel gyz bolsun»."
+    },
+    {
+        "name": "MAÝSA",
+        "meaning": "Gögerip outran ýaş arpa bugdaý.Maýsa ýaly öwüşgünli."
+    },
+    {
+        "name": "MERJEN",
+        "meaning": "Merjen ýaly gymmat-baha gözel gyz. Ýakub-merjen."
+    },
+    {
+        "name": "MERÝEM",
+        "meaning": "Semiz-sagdyn gyz. Söýgüli hökümdar hanym. HZ. Isanyň ejesiniň ady."
+    },
+    {
+        "name": "MÄHRI",
+        "meaning": "Parsçadan gelen Mah adynyň Türkmençe görnüşi bolup manysy - «Aý»."
+    },
+    {
+        "name": "MÄHRİBAN",
+        "meaning": "MÄHRİ (aý) + BAN (aýal, zenan, hanym) atlaryndan meýdana gelen at bolup manysy - «aý gyzy, aý ýaly owadan ýeketäk gyz»."
+    },
+    {
+        "name": "SELBI",
+        "meaning": "Serwi (Owadan uzyn boýly, inçe gowdeli, hemişe ýaşyl galýan agaç) adynyň üýtgän görnüşi bolup manysy - «hemişe owadan görkana gyz bolsun»."
+    },
+    {
+        "name": "SELBINIÝAZ",
+        "meaning": "Selbi (owadan uzyn boýly, inçe gowdeli, hemişe ýaşyl galýan agaç) + Niýaz (hajat, zerurlyk) – atlaryndan meýdana gelen at bolup manysy = «zerur bolan, dilenip alynan owadan görkana gyz»."
+    },
+    {
+        "name": "SÜLGÜN",
+        "meaning": "Owadan-görmegeý, ajaýyp gyz. Meydan towugy."
+    },
+    {
+        "name": "TAWUS",
+        "meaning": "Tawus guş ýaly owadan-görmegeý gyz bolsun."
+    },
+    {
+        "name": "ZEÝNEP",
+        "meaning": "Arapçadan gelen at bolup türkmençe manysy – “Kakasynyň bezegi”. Muhammet pygamberiň uly gyzynyň ady."
+    },
+    {
+        "name": "ZUBEÝDA",
+        "meaning": "Arapçadan gelen at bolup Türkmençe manysy – «mesge ýagy, gaýmak, krem, dyrnakgüller»."
+    },
+    {
+        "name": "ŞASENEM",
+        "meaning": "ŞA (hökümli, ygtyýarly) + SENEM (ynam; ynamdarlyk) atlaryndan meýdana gelen at bolup manysy - «patyşanyň ynamyna laýyk gyz bolsun»."
+    },
+    {
+        "name": "ŞEMŞAD",
+        "meaning": "Şemşad, gaty, sagdyn hem owadan agajyň ady."
     }
+
+
 
 
 ]
