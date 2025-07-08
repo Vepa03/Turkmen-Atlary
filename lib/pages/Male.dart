@@ -79,7 +79,7 @@ class _MaleState extends State<Male> {
                 controller: searchController,
                 onChanged: filterSearchResults,
                 decoration: InputDecoration(
-                  hintText: "Gozleg ...",
+                  hintText: "Gözleg...",
                   prefixIcon: const Icon(Icons.search),
                   border: OutlineInputBorder(borderRadius: BorderRadius.circular(8.0)),
                 ),

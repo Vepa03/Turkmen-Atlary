@@ -25,7 +25,7 @@ ThemeData light_mode = ThemeData(
     titleSmall: TextStyle(color: Colors.black)
   ),
 
-  cardTheme: CardTheme(
+  cardTheme: CardThemeData(
     color: Colors.white,
   ),
 
@@ -56,7 +56,7 @@ ThemeData night_mode = ThemeData(
     titleSmall: TextStyle(color: Colors.white),
   ),
 
-  cardTheme: CardTheme(
+  cardTheme: CardThemeData(
     color: Colors.black87,
   ),
 

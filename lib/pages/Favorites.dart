@@ -15,7 +15,7 @@ class Favorites extends StatelessWidget {
       body: ListView.builder(
         itemCount: favorites.length,
         itemBuilder: (context, index) {
-          final favorite = favorites[index] as Map<String, String>;
+          final favorite = favorites[index];
           final name = favorite['name']!;
           final gender = favorite['gender']!;
 
