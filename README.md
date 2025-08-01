@@ -1,12 +1,12 @@
 # Turkmen Names Means App
 
-| Home Page | Add Note Page |
+|  Page |  Page |
 |------|----------|
-| <img src="https://github.com/user-attachments/assets/ba6808eb-5652-42b2-90d7-d5f8af168954" width="300"> | <img src="https://github.com/user-attachments/assets/afaf2a6a-f096-4700-b9cb-c59359fd9e51" > |
+| <img src="https://github.com/user-attachments/assets/ba6808eb-5652-42b2-90d7-d5f8af168954" width="300"> | <img src="https://github.com/user-attachments/assets/afaf2a6a-f096-4700-b9cb-c59359fd9e51" width="300"> |
 
-| Delete Note Page | Notes List Page|
+|  Page | Page|
 |------------|-----------|
-| <img src="https://github.com/user-attachments/assets/21471274-297a-4435-9287-54da36e845a2"  width="300"> | <img src="https://github.com/user-attachments/assets/ff59f029-f8eb-4123-b7a8-3867a602e220" > |
+| <img src="https://github.com/user-attachments/assets/21471274-297a-4435-9287-54da36e845a2"  width="300"> | <img src="https://github.com/user-attachments/assets/ff59f029-f8eb-4123-b7a8-3867a602e220" width="300"> |
 
 
 **Learn** is a Flutter project built for learning and experimenting with modern Flutter tools and packages.  
